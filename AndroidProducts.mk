@@ -14,9 +14,9 @@
 # limitations under the License.
 
 PRODUCT_MAKEFILES := \
-    $(LOCAL_DIR)/aosp_mido.mk
+    $(LOCAL_DIR)/bootleg_mido.mk
 
 COMMON_LUNCH_CHOICES := \
-    aosp_mido-user \
-    aosp_mido-userdebug \
-    aosp_mido-eng
+    bootleg_mido-user \
+    bootleg_mido-userdebug \
+    bootleg_mido-eng
